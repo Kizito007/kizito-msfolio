@@ -31,28 +31,25 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "Summary of the Blockchain",
+    description: "Definition, explanation and summary of the blockchain and common terms used.",
+    url: "https://dev.to/kizito007/what-is-blockchain-2-403a",
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    title: "Image Repo Api",
+    description: "An image store and multi-querying api with Cloudinary.",
+    url: "https://documenter.getpostman.com/view/9887316/TVzViGQR",
   },
   {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://kizito007-humble-waddle-4ww6rxgp5qx37664-1234.preview.app.github.dev/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "Dozies portfolio",
+    description: "Partnered with the UI Designer to build his portfolio.",
+    url: "https://dozie.design/",
   },
 ];
 
